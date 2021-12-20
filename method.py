@@ -137,7 +137,7 @@ def Mercator2Azimuthal(mg: np.ndarray,
 
 if __name__ == "__main__":
     time0 = time.time()
-    img_root = r"H:\SVI2POI\urban2vec\ifs.png"
+    img_root = r"image/example_img.png"
     img = cv2.imread(img_root)
     plt.subplot(1, 2, 1)
     args = dict(pitch=0, heading=270, fov=124, out_H=1024, out_W=1024))
