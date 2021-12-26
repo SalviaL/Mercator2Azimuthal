@@ -12,4 +12,4 @@ A demo is provided in the `main` function. If you meet any problem, never hesita
 
 ## Example
 
-![](https://github.com/SalviaL/Mercator2Azimuthal/blob/main/image/result.png)
+![example](https://github.com/SalviaL/Mercator2Azimuthal/blob/main/image/result.png)
